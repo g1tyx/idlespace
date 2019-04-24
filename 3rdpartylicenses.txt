@@ -463,6 +463,11 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 END OF TERMS AND CONDITIONS
 
 
+typed-web-workers
+ISC
+
+undefined
+
 vis
 (Apache-2.0 OR MIT)
                                Apache License
@@ -666,11 +671,6 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
-undefined
-
-typed-web-workers
-ISC
 
 zone.js
 MIT
